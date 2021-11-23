@@ -13,7 +13,7 @@
 /**
 *  adds the operand1 and operand2 and returns the result
 * @param[in] operand1 
-* @param[in] operand2 
+* @param[in] operand2  
 * @return Result of operand1 + operand2
 */
 int add(int operand1, int operand2);
