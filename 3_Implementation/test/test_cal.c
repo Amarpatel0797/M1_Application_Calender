@@ -1,7 +1,7 @@
 #include "unity.h"
 #include "fun.h"
 
-/* Modify these two lines according to the project */
+/* Modify these two lines according to the  project */
 
 #define PROJECT_NAME    "Calculator"
 
