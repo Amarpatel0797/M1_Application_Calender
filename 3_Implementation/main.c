@@ -5,7 +5,7 @@ int multiplication();
 int division();
 int modulus();
 int power();
-int factorial(); // it is header file, conatins all function
+int factorial(); // it is header file, conatins all function 
 int main() {
   // variable declaration
   int choice; 
