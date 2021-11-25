@@ -1,5 +1,5 @@
 PROJ_NAME = main
-TEST_PROJ_NAME = Test_$(PROJ_NAME)
+TEST_PROJ_NAME = Test_$(PROJ_NAME) 
 
 SRC = src/addition.c\
 src/subtraction.c\
