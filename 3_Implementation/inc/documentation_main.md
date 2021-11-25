@@ -1,2 +1,2 @@
-@mainpage Calculator Application by Bharath G
+@mainpage Calculator Application by Amar patel
 @subpage calculator_operations.h
