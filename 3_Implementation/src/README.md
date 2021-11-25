@@ -1,4 +1,3 @@
-# Stepin_c_minproject
-this is the sample project
-nothing changed
+# simple_calculator_minproject
+this is a program for caluclotor project
 
