@@ -48,7 +48,7 @@ int main() {
         printf("Enter two number");
         scanf("%d %d",&n1,&n2);
        ans= modulus(n1,n2);  // calling madules function
-       printf("answer=%d",ans);
+       printf("answer=%d",ans); 
         break;  
     case 6: 
         printf("\nEnter two numbers to find the power \n");
