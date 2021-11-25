@@ -1,7 +1,7 @@
 #include<stdio.h>
 int factorial(int a)
 {
-    int i,fact=1;
+    int i,fact=1; 
  
    
     if (a<0) //checking for negative value
