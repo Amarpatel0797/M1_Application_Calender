@@ -21,7 +21,7 @@ int main() {
       printf("Enter two number");
       scanf("%d %d",&n1,&n2);
       
-      ans = addition(n1,n2); //calling addition function
+      ans = addition(n1,n2); //calling addition function 
       
       printf("answer=%d",ans);
       break;
