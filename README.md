@@ -63,16 +63,7 @@ result: 8
 ```
 
 
-### BUILDING
-
-#### To import into Eclipse CDT:
-
-* File -> New -> Project...
-* Under C/C++ choose "C Project"
-* Select a Project name
-  * Ensure that the "Use default location" option is not selected because here you need to specify where the resources reside in the file system, in a location other than your workspace.
-* Select an appropriate Toolchain such as Executable / Linux GCC.
-* Include the math library for linking ("-lm")
-
-#### Manual build
-Compile and link using gcc, remember to link with "-lm". Makefile is left as an excercise to the reader. 
+# SDLC Activity Based Learning
+Build | Code Quality | Git Inspector | code quality score | code grade |
+|---------|------------|-------------|--------------------|------------
+|[![C/C++ CI](https://github.com/yogishR/Stepin_c_minproject/actions/workflows/c++.yml/badge.svg)](https://github.com/yogishR/Stepin_c_minproject/actions/workflows/c++.yml)| [![Unit Testing - Unity](https://github.com/yogishR/Stepin_c_minproject/actions/workflows/unity.yml/badge.svg)](https://github.com/yogishR/Stepin_c_minproject/actions/workflows/unity.yml)| [![Contribution Check - Git Inspector](https://github.com/yogishR/Stepin_c_minproject/actions/workflows/codeinspector.yml/badge.svg)](https://github.com/yogishR/Stepin_c_minproject/actions/workflows/codeinspector.yml)|  [![Static Code Quality- Cppcheck](https://github.com/yogishR/Stepin_c_minproject/actions/workflows/cpp.yml/badge.svg)](https://github.com/yogishR/Stepin_c_minproject/actions/workflows/cpp.yml) | ![Code Quality Score](https://www.code-inspector.com/project/27777/score/svg) |![Code Badge](https://www.code-inspector.com/project/27777/status/svg)
