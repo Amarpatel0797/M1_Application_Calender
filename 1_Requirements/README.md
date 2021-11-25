@@ -7,6 +7,18 @@ which I'm Implementing ,also included three additional operations such as Factor
 
 The input includes the command such as we can give numbers based on the operation for example for addition we give 1 as a command and that particular operation works.Moreover, this calculator is smart enough to operate multiplication/division before addition/subtraction/factorial/power/modulas, in another word it is implemented with the 
 order of precedence logic.    
+## Features
+- Standard Calculator functionality which offers basic operations and evaluates commands immediately as they are entered.
+- Scientific Calculator functionality which offers expanded operations and evaluates commands using order of operations.
+- Programmer Calculator functionality which offers common mathematical operations for developers including conversion between common bases.
+- Date Calculation functionality which offers the difference between two dates, as well as the ability to add/subtract years, months and/or days to/from a given input date.
+- Calculation history and memory capabilities.
+- Conversion between many units of measurement.
+- Currency conversion based on data retrieved from [Bing](https://www.bing.com).
+- [Infinite precision](https://en.wikipedia.org/wiki/Arbitrary-precision_arithmetic) for basic
+  arithmetic operations (addition, subtraction, multiplication, division) so that calculations
+  never lose precision.
+
 
 ## Research:-  
 
