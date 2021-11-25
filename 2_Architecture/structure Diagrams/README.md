@@ -1,6 +1,6 @@
 # Structure Diagrams
 
-# Component Diagram   
+# Component Diagram  
 
 # ![COMPON](https://user-images.githubusercontent.com/69413922/132314720-f109a6cb-ac57-428d-a173-14c869e54413.png)   
   
