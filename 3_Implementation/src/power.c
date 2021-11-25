@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<math.h> // math support some mathemetics inbuilt function
+#include<math.h> // math support some mathemetics inbuilt function 
 int power(int a, int b)
 {
     int i=1;
