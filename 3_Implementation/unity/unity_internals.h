@@ -41,7 +41,7 @@
 #endif
 
 #if defined __GNUC__
-#    define UNITY_FUNCTION_ATTR(a) __attribute__((a))
+#    define UNITY_FUNCTION_ATTR(a) __attribute__((a)) 
 #else
 #    define UNITY_FUNCTION_ATTR(a) /* ignore */
 #endif
